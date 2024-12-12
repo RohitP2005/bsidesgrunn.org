@@ -33,7 +33,7 @@ Ensure you have the following installed on your local machine:
 
 3. Navigate to the project directory:
    ```bash
-   cd [bsidesgrunn.org]
+   cd bsidesgrunn.org
    ```
 
 4. Install dependencies:
